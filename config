@@ -1,11 +1,11 @@
-MasterAddr 127.0.0.1
+MasterAddr 139.196.80.102
 MasterPort 10086
 
-PSAddr 127.0.0.1
+PSAddr 180.160.160.150
 PSPort 10087
 
-WorkerAddr 127.0.0.1
+WorkerAddr 139.196.80.102
 WorkerPort 10088
 
-PS2WorkerAddr 127.0.0.1
+PS2WorkerAddr 180.160.160.150
 PS2WorkerPort 10089
