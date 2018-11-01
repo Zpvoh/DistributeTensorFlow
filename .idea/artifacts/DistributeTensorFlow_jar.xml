@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="DistributeTensorFlow:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/DistributeTensorFlow_jar</output-path>
+    <root id="archive" name="DistributeTensorFlow.jar">
+      <element id="module-output" name="DistributeTensorFlow" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/javacsv-2.1.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
